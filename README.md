@@ -20,8 +20,8 @@ The objective of this project is to implement a smart traffic control system usi
 ## Setup and Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/janani-prasathh/ANPR-ATCC-for-smart-traffic-management.git
-cd anpr-atcc-traffic-management
+git clone https://github.com/janani-prasathh/ANPR-and-ATCC-for-Smart-Traffic-Management-Project-Training.git
+cd ANPR-and-ATCC-for-Smart-Traffic-Management-Project-Training
 ```
 
 2. Create and activate virtual environment (recommended):
