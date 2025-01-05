@@ -20,7 +20,7 @@ The objective of this project is to implement a smart traffic control system usi
 ## Setup and Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/SkyRanger15/ANPR-ATCC-for-smart-traffic-management.git
+git clone https://github.com/janani-prasathh/ANPR-ATCC-for-smart-traffic-management.git
 cd anpr-atcc-traffic-management
 ```
 
